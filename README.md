@@ -11,9 +11,4 @@ https://devkmaan.github.io/imageauth/
 
 
 
-## Team ✨
-
-- Dev Kumar Maan
-
-- Ayush Biyani
 
