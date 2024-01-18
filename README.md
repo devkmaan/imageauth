@@ -13,13 +13,9 @@ Graphical Password Authentication System
 
 ## Team ✨
 
-- Rahul Karda
+- Dev Kumar Maan
 
-- Saksham Gupta
-
-- Varsha Sharma
-
-- Maroof Ansari
+- Ayush Biyani
 
 
 ## Screenshots📸
